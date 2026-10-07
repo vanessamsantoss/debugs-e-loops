@@ -1,0 +1,12 @@
+{
+"name": "teste01",
+"type": "module",
+"scripts": {
+"test": "vitest",
+"test:run": "vitest run"
+},
+"devDependencies": {
+"@types/node": "^26.5.1",
+"vitest": "^5.0.1"
+}
+}
